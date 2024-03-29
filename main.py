@@ -1,5 +1,4 @@
 from flask import Flask, jsonify, request, render_template,send_file
-import ngrok_library
 app = Flask(__name__,static_url_path='')
 currentmsg = ""
 
