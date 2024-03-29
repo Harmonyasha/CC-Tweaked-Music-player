@@ -132,7 +132,7 @@ print("___",#lines,"___")
 local sector = decoder(lines)
 local tempids = {}
 
-local count = 0
+local count = 1
 tempids[count] = {}
  
 for i,v in pairs(sector) do
