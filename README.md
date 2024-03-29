@@ -1,4 +1,5 @@
 # CC-Tweaked-Music-player
+Tested on 1.20.1
 ## Showcase
 ```
 https://youtu.be/sDe-IiT1GRk
